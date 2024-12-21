@@ -1,4 +1,4 @@
-# CodeAlpha_Basic_Network_Sniffer
+# Basic_Network_Sniffer
 
 A simple Python-based network sniffer that captures and displays Ethernet frames with their source, destination, protocol, and raw data in hexadecimal format. This program requires root permissions to run as it uses raw sockets.
 
